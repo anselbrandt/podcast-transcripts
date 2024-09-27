@@ -51,6 +51,14 @@ def split_waveform_filenames(output_dir, transcript, showname, episode):
     return filenames
 
 
+def split_waveform_speechmaps(output_dir, transcript, showname, episode):
+    filenames = [
+        f"{output_dir}/{showname}_{episode}_{start}_{end}_{speaker}.wav_-_{speech}"
+        for idx, start, end, speaker, speech in transcript
+    ]
+    return filenames
+
+
 def split_waveform_filenames_JSON(output_dir, transcript, showname, episode):
     fileStr = '"file"'
     textStr = '"text"'

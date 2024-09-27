@@ -10,6 +10,7 @@ from .utils import (
     timeToSeconds,
     split_waveform_filenames,
     split_waveform_filenames_JSON,
+    split_waveform_speechmaps,
 )
 from .whisper_nemo_pipeline import diarize
 from .library import (
