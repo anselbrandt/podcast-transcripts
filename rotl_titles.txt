@@ -1,0 +1,553 @@
+000 - Suit of Vomit
+001 - Keep Moving and Get Out of the Way
+002 - White Leather Carpet
+003 - The Viet Cong Can Smell the Soap
+004 - Sears Would Call Me Husky
+005 - Carry on, Maude
+006 - String Art Owls, Copper Pipe, and Bono's Boss
+007 - The Compulsive Sherry Algorithm
+008 - The Reptilian Behind the Long Pig Mask
+009 - He Was Apparently a Talented Baker
+010 - They Usually Come in the Mornings
+011 - Everybody Knew What Mr. Finnell Did
+012 - Cold-Calling the Jewess
+013 - Then There Was Pump Chili
+014 - Big City Apology
+015 - Covered in Sauce
+016 - Cotton Candy Pink Poofy La-La
+017 - Antisocially Promoted
+018 - Main Pastrami Incisor
+019 - Finger Camping Trip
+020 - We Can All Agree on Cheese
+021 - Dead Rubber Girl in My Closet
+022 - My Own Dungeon Master
+023 - Flange of the Angel Curve
+024 - The Wrong Mustache
+025 - Supertrain
+026 - Go Practice the Car
+027 - Bellinghamming
+028 - The Sheriff of Twisp
+029 - Eventually My Scabs Healed
+030 - Cement Gravy Boat of Suffering
+031 - Our Orange Franklin
+032 - Incidental Boners
+033 - Starts to Slurry
+034 - A Shit Barge Full of Long Pigs
+035 - You Give 'Em Israeli Eyes
+036 - Uncle Licky
+037 - The CEO of Magic
+038 - With My Mind Bullets
+039 - Darth of Options
+040 - Status Butter
+041 - In Lieu of a Laundromat
+042 - Your Hands Would Be Your Passport
+043 - Waiting for Our Duck
+044 - The Story of Lola
+045 - The Conditions of Love
+046 - Special
+047 - Esquivalience
+048 - Wherever Trail Needs to Be Built
+049 - A Red Light in a Strange Town
+050 - Check Your Six
+051 - In Pursuit of an Errant Leaf
+052 - The Choad Building
+053 - Kennebunkhead
+054 - This Is Not YOUR Kennel
+055 - A Welsh Troll
+056 - We Paradise in Our Wake
+057 - Unfair
+058 - Squirearchy of Monks
+059 - Insufferabilityism
+060 - Writ in His Boots
+061 - Neighborhood Stick Fight
+062 - Cat Butt Was Real
+063 - A Topcoat of Bonkers
+064 - Sunset University
+065 - Trumpet Discrimination
+066 - If I Could Stop Time
+067 - All of the Small Beer
+068 - The Opposite of Sherlock Holmes
+069 - Campfire Spaghetti Party
+070 - Bad Cop, Worse Cop, Man in Bathrobe
+071 - Everybody Has a Hamburger
+072 - Diddling is the MacGuffin
+073 - Ketchup is Hard to Remove
+074 - The Omnibus of Wilburforce
+075 - Mean Baby
+076 - The Cherry of Somebody's Appeal
+077 - The Derivation of Donk
+078 - Driving Lesson Costume
+079 - We Are Not Snow Giants
+080 - I Was the Red Robin
+081 - It Tastes Like the Forest
+082 - Yelling at Trees
+083 - The Roderick Group
+084 - Pedagogical Sex Father
+085 - Steamin' John
+086 - The Junius Issue
+087 - I Speak Sea Plane
+088 - Grotesquerie Ray
+089 - Transparity
+090 - A Small Archipelago of Noses
+091 - Roller Derby Boyfriend
+092 - Born on a Ball
+093 - Between the Monkey Bars
+094 - Backburners to Infinity
+095 - Cravat Brush Holder Case
+096 - The Beautiful Thing About an Idea
+097 - With Buckethead
+098 - A Mastiff of Spinach
+099 - White Ribbon
+100 - Tertiary Lobster Fork
+101 - Where All the Lilypads Are
+102 - The Birkenstock Point
+103 - Artisanal Pork Bakery
+104 - Talismans of a Dead Age
+105 - Hippie Clean
+106 - Nürburgring Confirmation
+107 - Built for Now
+108 - Jim Here
+109 - #SuperVan
+110 - The Dignity Police
+111 - The Handjob-Industrial Complex
+112 - The Takeaway Dream
+113 - Big Comedy Rock Solo
+114 - The Gentleman's B Party
+115 - Rerememory
+116 - Smilin' Alligator
+117 - Put on the Carrot Hat
+118 - The Articulated Hose King
+119 - A Cocaine Economy
+120 - The Frog Leg King
+121 - Homeland Freedom Station
+122 - Parliament of the Moment
+123 - Your Mom Doesn't Work Here
+124 - The Legend of Skeeter
+125 - All the Great Shows!
+126 - Big Cabbages and Baby Pigs
+127 - Fermi in a Van
+128 - Arcadum
+129 - Museo De Garbagemen
+130 - Repping This Vibration
+131 - Subsequious
+132 - You Cannot Lie to Your Pants
+133 - Secret Pope Songs
+134 - A Minimum of Eels
+135 - Fire Was Always the Star
+136 - Goofus MacGroofus
+137 - Arsenal of Civilization
+138 - MSG Denier
+139 - Building a Lung
+140 - Nadir for Now
+140.5 - "Roderick on the Line" Live at Verdi Club, SF
+141 - Al's Yacht
+142 - Boner to the Stars
+143 - Traffic Cones & Retirees
+144 - Gravy Fountain
+145 - Scrum of Celery
+146 - Science Farmer
+147 - The Om of Surrender
+148 - Can't Find the Starch
+149 - The Humility Opportunities
+150 - Dog Beatles
+151 - Mrs. Horning's Pepsi
+152 - Butterfly Farts
+153 - The Time Buffalo
+154 - West Coast Noncommittal
+155 - Crucibility
+156 - The Dumbest Guy I Ever Met
+157 - Truth & Reconciliation
+158 - My Citadel Is Irrelevant
+159 - The Climbing
+160 - Gidgets and Gasmos
+161 - It's Ramifications!
+162 - April's Cream
+163 - The Maisie Glotz File
+164 - In Your Face, Paraguay
+165 - This Explains Everything
+166 - Hella NPR'd
+167 - Peak Phil Collins
+168 - The Room of Stories
+169 - Again With the Pie
+170 - The Wilder Universe
+171 - A Weiner-Shaped Hole
+172 - Gain Stages
+173 - My Afflicted Eyes
+174 - Infuntainment
+175 - Backwards at Half Speed
+176 - The Opossum Had Distracted Me
+177 - When Fleece Became Flannel
+178 - Action Movie Doctor
+179 - A Good Box
+180 - The Other Pope
+181 - Saltin' Up
+182 - House Trotter
+183 - Here Comes Nacho
+184 - Mr. Choöde
+185 - I Reject Potatoes.
+186 - Electric Papers
+187 - The Nicest Oubliette
+188 - Crow Meth
+189 - Technicolor Irony Coat
+190 - Omertà of the Sea
+191 - My Weird Money
+192 - King of Tahiti
+193 - Oklahoma the Sex Cat
+194 - Permanent Geranium Lake
+195 - Cowboy Handsome
+196 - The White Fresh Crüe
+197 - Diamond Holes
+198 - No Control Group
+199 - The Wrong Kind of Warlock
+200 - There's No Anything
+201 - Cowboy Hat Boss
+202 - The Anchorman
+203 - Killing Me to Death
+204 - Soul Memory
+205 - Space Clarinets
+206 - The OG Haoles
+207 - Spectacularly, She Schleps
+208 - Coney Island Horniness
+209 - Keep the Lines Right
+210 - Parents and Other Dingalings
+211 - Character of the Mountain
+212 - There's My Ride
+213 - Desk Bobbies
+214 - Tinder for the Google Man
+215 - Occasional Live Keyboardist
+216 - You Could Do Less Magic
+217 - Dick…AND!
+218 - The Valve
+219 - It's an Off Day
+220 - Find the Hippopotamus
+221 - Riding the Ham
+222 - Bastik of Problems
+223 - Sequester John!
+224 - Family Lasagna
+225 - James Jacket
+226 - A Cocaine Aperture
+227 - Fifth Knob
+228 - Hidey Santa
+229 - Elves with Clipboards
+230 - Forest of Meat
+231 - “First Banana”
+232 - “The Going-With Years”
+233 - Babies are Boring
+234 - Boo Hoo Hoo
+235 - Where the Wind Lives
+236 - Into the Hat Weeds
+237 - Tape Loop Confusion Party
+238 - We're Not Farmers
+239 - Coming Into My Agency
+240 - Wrobbie Wrist
+241 - Some Corgi Movement
+242 - Mr. Jingle-Jangle
+243 - Hoeing My Till
+244 - Super Cartoid
+245 - An Ongoing Situation
+246 - Night Burrito
+247 - George Martin's Butt
+248 - Hubris of the Moment
+249 - Blank Knobs
+250 - Disaster Coffee
+251 - Popped Out
+252 - The Ur-Choad
+253 - A Worked Horse
+254 - One of My Favorite Actresses
+255 - The Fancy-Enough Window
+256 - Behind My Skis
+257 - Sonic Posture
+258 - Ambition Hour
+259 - My Dump Buddy
+260 - My Snapchat Years
+261 - Two Swords in Da Nang
+262 - He Never Swore
+263 - Rear Admiral Crunch
+264 - Whisker Fatigue
+265 - Cisesthesia
+266 - Ham-Fisted Steak Cooker
+267 - Vintage Mops
+268 - A Principled Ohioan
+269 - Yelling at the Radio
+270 - An Archipelago of Stops
+271 - Butterfly Ninja Girl
+272 - Graham Is Beautiful
+273 - One Kilometer
+274 - Lord Sword
+275 - I Want an Adult
+276 - The Authenticity Wars
+277 - Old Sauce
+278 - Felix
+279 - Mr. Hot Tub
+280 - A Sensible Hat
+281 - Eight Straight
+282 - The Grand Slam
+283 - I Never Follow the Voice
+284 - You're Grass Now
+285 - Praise Cannon
+286 - Ginger Dagwood
+287 - American Car
+288 - “Mustache President”
+289 - “Car Stars”
+290 - “Gasthaus”
+291 - “Arles”
+292 - “The Bottom Shelf of Somewhere”
+293 - “Force Majeure”
+294 - “Steely Dan Fogelberg”
+295 - Big Mike
+296 - Bowl of Jay
+297 - Chicken in the House
+298 - Private Road
+299 - Mas Libros
+300 - The Airplane Doesn't Care
+301 - Non-Euclidean Space Library
+302 - The Battle of Turns Outs
+303 - “Smzdrj”
+304 - Go For Bounce
+305 - The Hostess
+306 - Corgis I've Already Seen
+307 - My Lipstick Girls
+308 - The Hi-Hat
+309 - Where's the One?
+310 - “Quiet Moments”
+311 - “Friend Mode”
+312 - “Always is How”
+313 - “Man on the Boat”
+314 - Jews in Duckburg
+315 - The Slow Destruction of Bueno
+316 - “Set Master to Relax”
+317 - You Can't Be Drunk at Disneyland
+318 - The Best Chicken
+319 - Cop Pants
+320 - Every Daffodil in the City
+321 - The XY Problem
+322 - 1 Infinite China
+323 - Stool in the Sky
+324 - Caged Wheat
+325 - Covered in Science
+326 - The Cat and the Kettle
+327 - Old Sunshine and the Bear
+328 - Inaccurate But True
+329 - Useful Hippie
+330 - Crow Condo
+331 - Magic Lawyer
+332 - Three Adjacents Apart
+333 - The Turtle Just Goes
+334 - Ms. Manager
+335 - Fifteen Things
+336 - A Deck of Life
+337 - Reacharound Fave
+338 - Jelisa and Robert Saudi
+339 - Internal Grace
+340 - Scared and Stupid
+341 - The Head of Two-Thousand
+342 - The Scrappy Sessions
+343 - My German Underpants
+344 - One Hatchet Culture
+345 - Allemande Left
+346 - Every Sunday is Different
+347 - Pareto Olive Principle
+348 - The Other Oregon
+349 - The Beefs
+350 - Wizard Rock
+351 - Recursive Homunculus
+352 - Bellingham Notes
+353 - Reverse Khrushchev
+354 - The Hands of Control
+355 - The Lieutenant Colonels of Hell
+356 - You Only See the Top
+357 - Scrambling the Ham
+358 - Celebrate the Hams
+359 - Cowboy Tune
+360 - Chicken Arse, IA
+361 - Tethering the Gas
+362 - Ghost of a Hobo
+363 - Butler of Sadness
+364 - Why Are You a Bad Boy?
+365 - Meet Me at Ballet
+366 - Cafetorium Seppuku
+367 - Inescape Room
+368 - The Slovenian Model
+369 - The Casserole Counters
+370 - Tomorrow's Heart
+371 - Too Big to Be Angry
+372 - You Never Know
+373 - An Unannounced Friend
+374 - Licking the Butter Lion
+375 - The Shellfish Rights
+376 - Wrong Kind of Vacation
+377 - The Stravinsky of Toilet Paper
+378 - Lion, Tiger, Horse, Monkey
+379 - Garbage Island
+380 - The Impossible Me
+381 - Slots in Some Imaginary Future
+382 - The Year with the Asterisks
+383 - President of Jokes
+384 - Original Shame
+385 - Home Corn
+386 - Pass the Dude
+387 - Don't Talk to Dongus
+388 - Medical Lunch
+389 - The New March
+390 - Dreaded Failure Closet
+391 - The Destination Was Your Bush
+392 - The Oldest Tyler
+393 - A Little Grace
+394 - The Colonel
+395 - Talismans and Memories
+396 - Yreka Bakery
+397 - Open Ticket
+398 - Tyrell's Robe
+399 - The Initiating Woundedness
+400 - Abberdabber
+401 - How is Pond?
+402 - Time to Move Some Furniture Around
+403 - Car Bunny
+404 - Sixty-Nine Sweats
+405 - Load-Bearing Bangs
+406 - December to Remember
+407 - A Constellation of Pushbacks
+408 - Cool the Tubes
+409 - Prime Joe Customer
+410 - Trunk Full of Tab
+411 - The Anxiety Family
+412 - A Poke of Gold
+413 - Brown Wizard
+414 - Groomed Into Insanity
+415 - Natural Strawberries
+416 - Under Their Trucks
+417 - Dr. Project, M.D.
+418 - Ensuring Daddy's Slice
+419 - God's Cursive
+420 - The New Urbanist Superhero League
+421 - My Mom's Ohio
+422 - Alfie Doesn't Rake
+423 - Post-Medicine John
+424 - The Beaver, the Badger, and the Buckwheat
+425 - The Car Bar
+426 - My Little Cowboy
+427 - Mapping Run
+428 - Pyramid of Spoons
+429 - The January Project
+430 - PILF Pants
+431 - Mr. Mustache
+432 - Water Taxi Party
+433 - Nag Flag
+434 - John and the Girls
+435 - Comedy Knives
+436 - Murder Dogs
+437 - The First Betrayal of Kevin
+438 - Catch the Vase
+439 - Dick Meningitis
+440 - Sur La Sac
+441 - The Blessing of the White Dog
+442 - Recognizably Dylan
+443 - The Fifty-Cent Candy Bar
+444 - Blue Link Girlfriend
+445 - Gravy Cop
+446 - God Made the Rat
+447 - Flip Too Far
+448 - A Little Bit on Fire
+449 - Galaxy's End
+450 - The Dawn and the Dusk
+451 - The Slick Back Kid
+452 - Among the Scumbags
+453 - Guardstone
+454 - The Ghost Bushes
+455 - The Birds Aren't Real Party
+456 - The People's Traffic
+457 - Hard Pants
+458 - Beck's Situation
+459 - Ukrainian Prank Calls
+460 - Rikki-Tikki-Cancelled
+461 - The New Alignment
+462 - Cheese Cave
+463 - Proud of His Pies
+464 - “In a Morbid Suit”
+465 - Cocktail Goats
+466 - Crypto Joe
+467 - Interstate William
+468 - Patterns Aren't Sufficient
+469 - Culmination
+470 - Too Clever by a Cat
+471 - Foot-Thick Cake
+472 - Pillow Inflation
+473 - A Turducken of Delusion
+474 - The Dracula Protocol
+475 - A Panic Animal
+476 - It Starts with Lava
+477 - Comedy Guitar
+478 - Government and Girlfriends
+479 - Personal Forklift
+480 - Intake Engineer
+481 - The Deep End of Plenty
+482 - Everything is Not Everything
+483 - The Power Girls
+484 - Chief Technical Chief
+485 - Ancient Woo
+486 - Mystery Meat Colonel
+487 - My Own Switzerland
+488 - A Safe Place to Be Angry
+489 - Heroin Parties
+490 - Sandwich Joe Dorito
+491 - The Adventurous Choice
+492 - The Naked Beach
+493 - Part of an Amp
+494 - Corn Cob Night
+495 - Hauling Balls
+496 - Dad Church
+497 - Where the Grocery Stores Are
+498 - The Jimmy Carter of Jerusalem
+499 - A Ziggurat of Grievance
+500 - Dr. Labyrinth, I Presume?
+501 - The Doors of Jazz
+502 - Dr. Guy
+503 - A Still Period
+504 - Mt. Florida
+505 - Steamin' John & the Rebel
+506 - The Shame Police
+507 - Haunted House of a Mind
+508 - A Collerary of Bastiks
+509 - A Dirty Rectangle on the Wall
+510 - Dr. Pole
+511 - A Horse of a Different Cat
+512 - American Horoscope
+513 - Mayor Jabberwocky
+514 - Q.R. Crabs
+515 - Existential Plasticity
+516 - Gambling Pocket
+517 - Sundown Acres
+518 - Aspics of Me
+519 - Even Doves Have Pride
+520 - Seven Minutes in Mexico
+521 - Keep the Nickel
+522 - Cafeteria Californian
+523 - A Grocer You Haven't Met Yet
+524 - Dinner's at Five
+525 - The Penury of the Scots
+526 - Some Nice of These
+527 - The Calm Cousins
+528 - The Biggest Indoor Building in the World
+529 - Not Everything is Everything
+530 - Something Else
+531 - A Perfect Bead
+532 - My Umbrella Stand
+533 - Busty Trainfails
+534 - Shibboleth Drops
+535 - All the Whys
+536 - The Garbage Czar
+537 - Cold Breakfast
+538 - An Onstage Immortal
+539 - God Made the Rat
+540 - Appointed Holes
+541 - Looking Over God's Shoulder
+542 - Mr. Mike
+543 - The Two Spleens
+544 - The Hay Bale Stage
+545 - The Lowest Person
+546 - A Sugar Season
+547 - The Servant's Exit
+548 - Seattle Friends
+549 - Smashing Kippers
+550 - Telephone Club
+551 - Knotty Bits
