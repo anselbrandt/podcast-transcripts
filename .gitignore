@@ -1,6 +1,7 @@
 __pycache__
 .DS_Store
 .env
+chunked
 files
 johnTranscripts
 johnWavs

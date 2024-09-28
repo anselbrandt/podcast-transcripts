@@ -11,6 +11,7 @@ from .utils import (
     split_waveform_filenames,
     split_waveform_filenames_JSON,
     split_waveform_speechmaps,
+    token_count,
 )
 from .whisper_nemo_pipeline import diarize
 from .library import (
