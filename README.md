@@ -64,6 +64,8 @@ pip uninstall transformers
 
 pip install huggingface_hub==0.22.0
 pip install transformers==4.39.2
+pip install chromadb
+pip install sentence-transformers==3.1.1
 ```
 
 ### `Error: “Chunk size too large, text got clipped”`
