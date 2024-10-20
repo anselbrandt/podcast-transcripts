@@ -3,6 +3,7 @@ __pycache__
 .env
 chunked
 files
+fulltext
 johnTranscripts
 johnWavs
 json
