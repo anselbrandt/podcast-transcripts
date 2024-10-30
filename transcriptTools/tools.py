@@ -46,7 +46,7 @@ def filterSpeaker(transcript, speaker_to_keep):
     return lines
 
 
-def speakerLabels(csvPath):
+def loadSpeakerLabels(csvPath):
     speaker_labels = {"rotl": {}, "roadwork": {}}
 
     for showname, episode, speaker0, speaker1 in list(csv.reader(open(csvPath))):
