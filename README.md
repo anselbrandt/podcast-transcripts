@@ -61,9 +61,14 @@ pip install "nemo_toolkit[asr]"
 
 pip uninstall huggingface_hub
 pip uninstall transformers
+pip uninstall datasets
+pip uninstall ctranslate2
 
+pip install ctranslate2==4.4.0
 pip install huggingface_hub==0.22.0
 pip install transformers==4.39.2
+pip install datasets==3.0.1
+
 pip install chromadb
 pip install sentence-transformers==3.1.1
 
