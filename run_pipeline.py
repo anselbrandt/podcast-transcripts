@@ -9,10 +9,10 @@ from diarize import (
     realign,
     saveOutput,
     split_waveform_by_timestamps,
-    srt_to_transcript,
     updateStatus,
     saveToPkl,
 )
+from transcriptTools import srt_to_transcript
 
 ROOT = os.getcwd()
 
