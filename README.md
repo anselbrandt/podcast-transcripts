@@ -29,6 +29,10 @@ export LD_LIBRARY_PATH=/usr/local/cuda-12.4/lib64\${LD_LIBRARY_PATH:+:${LD_LIBRA
 
 ### Installation
 
+```
+sudo apt install ffmpeg
+```
+
 The diarization pipeline only has a few requirements, unfortunately they demand specific versions, which are likely overridden by `nemo` having unpinned dependencies.
 
 ```
@@ -64,8 +68,8 @@ pip uninstall transformers
 pip uninstall datasets
 pip uninstall ctranslate2
 
-pip install ctranslate2==4.4.0
 pip install huggingface_hub==0.22.0
+pip install ctranslate2==4.4.0
 pip install transformers==4.39.2
 pip install datasets==3.0.1
 
