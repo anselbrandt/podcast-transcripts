@@ -10,7 +10,7 @@ from diarize.library import (
 )
 from diarize.predict import predict
 
-# Map Speakers to senteces with timestamps
+# Map Speakers to sentences with timestamps
 
 
 def realign(file, outputDir, word_timestamps, initial_chunk_size):
